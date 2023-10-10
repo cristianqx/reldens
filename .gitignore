@@ -1,0 +1,12 @@
+/.cache
+/.env
+/.idea
+/knexfile.js
+/node_modules
+/npm-debug*
+/test
+/ts-node*
+/v8-compile-cache*
+/dev
+winpty.exe.stackdump
+/.parcel-cache
